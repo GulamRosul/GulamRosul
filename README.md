@@ -13,7 +13,7 @@ I am a Front-End Developer (React) from Bangladesh.
 
 
 
-Skills:  🛠️ Technical Skills Frontend Development:  HTML5, CSS3, JavaScript , React.js, Next.js  Tailwind CSS, Bootstrap  Backend & Database:  Express.js, MongoDB, Firebase        Design & UI/UX:  Figma (Wireframing & Prototyping)  Version Control & Collaboration:  Git (GitHub, Git CLI)
+<h1>Skills:  🛠️ Technical Skills Frontend Development:  HTML5, CSS3, JavaScript , React.js, Next.js  Tailwind CSS, Bootstrap  Backend & Database:  Express.js, MongoDB, Firebase        Design & UI/UX:  Figma (Wireframing & Prototyping)  Version Control & Collaboration:  Git (GitHub, Git CLI)</h1>
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
