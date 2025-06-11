@@ -7,13 +7,13 @@ I am a Front-End Developer (React) from Bangladesh.
 
 💡 I view websites as more than just online spaces—they're dynamic tools that can truly impact lives. I work to make every website user-friendly and seamlessly functional, turning each one into a powerful solution for real-world challenges. Let's craft websites that make a difference, together! 🌟
 
-🌍 In web development, I make things work better, smoother and bring people closer. My goal is to contribute positively by boosting efficiency and connectivity. I'm committed to transforming innovative ideas into practical solutions that address real-world problems. Let's build a better world together!
+🌍 In web development, I make things work better, smoother, and bring people closer. My goal is to contribute positively by boosting efficiency and connectivity. I'm committed to transforming innovative ideas into practical solutions that address real-world problems. Let's build a better world together!
 
 🌟 If you're in search of a React Front-End Developer who combines a formal approach with a dedication to building websites that truly matter, I invite you to connect. Reach out to me at gulamrosul037@gmail.com, and let's collaborate to bring your digital vision to life.🚀
 
 
 
-<h1>Skills:  🛠️ Technical Skills Frontend Development:  HTML5, CSS3, JavaScript , React.js, Next.js  Tailwind CSS, Bootstrap  Backend & Database:  Express.js, MongoDB, Firebase        Design & UI/UX:  Figma (Wireframing & Prototyping)  Version Control & Collaboration:  Git (GitHub, Git CLI)</h1>
+<h3><strong>Skills:  🛠️ Technical Skills Frontend Development:  HTML5, CSS3, JavaScript , React.js, Next.js  Tailwind CSS, Bootstrap  Backend & Database:  Express.js, MongoDB, Firebase        Design & UI/UX:  Figma (Wireframing & Prototyping)  Version Control & Collaboration:  Git (GitHub, Git CLI)</strong></h3>
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
