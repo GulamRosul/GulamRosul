@@ -44,25 +44,13 @@ Version Control & Collaboration:
 . 👯 I’m looking to collaborate on Flutter & Open-Source projects
 
 
-![Gulam Rosul's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulamRosul&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=GulamRosul&show_icons=true&theme=tokyonight
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GulamRosul&theme=tokyonight)
+https://streak-stats.demolab.com?user=GulamRosul&theme=tokyonight
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulamRosul&layout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=GulamRosul&layout=compact&theme=tokyonight
 
-## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GulamRosul&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GulamRosul&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulamRosul&layout=compact&theme=tokyonight" />
-</p>
 
 
 
