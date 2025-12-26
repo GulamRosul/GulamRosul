@@ -1,7 +1,6 @@
-![](![](https://scontent.fdac45-1.fna.fbcdn.net/v/t39.30808-6/603861064_1927599364770614_4655109899683599363_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BC-wAP4FRDQQ7kNvwEOgTvz&_nc_oc=AdmpVSD-QWGl9h2cirbfkpiyZVZ7ZrQO4r24dqp0zulUGFIBMx8mqOsSuopFkmaSmnY&_nc_zt=23&_nc_ht=scontent.fdac45-1.fna&_nc_gid=wIc0OmQ4KtPIkbLdFVEGNg&oh=00_AfkHCZ8_dpywRqA9ZEYA_xN45Hs5jdhkBsf2OYl-L0wK7w&oe=6954A788)   - 🔭 I’m currently working on this page. )
+![](![](https://scontent.fdac45-1.fna.fbcdn.net/v/t39.30808-6/603861064_1927599364770614_4655109899683599363_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BC-wAP4FRDQQ7kNvwEOgTvz&_nc_oc=AdmpVSD-QWGl9h2cirbfkpiyZVZ7ZrQO4r24dqp0zulUGFIBMx8mqOsSuopFkmaSmnY&_nc_zt=23&_nc_ht=scontent.fdac45-1.fna&_nc_gid=wIc0OmQ4KtPIkbLdFVEGNg&oh=00_AfkHCZ8_dpywRqA9ZEYA_xN45Hs5jdhkBsf2OYl-L0wK7w&oe=6954A788)  
 
 
-- 🔭 I’m currently working on this page. 
 
 
 
