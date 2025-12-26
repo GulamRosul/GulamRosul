@@ -1,5 +1,5 @@
 
-![](https://scontent.fird6-1.fna.fbcdn.net/v/t39.30808-6/505718632_1767584050772147_3737276651753987019_n.png?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=rgGwjfCsFHcQ7kNvwEtqHgy&_nc_oc=AdkHsLreh8sGz3e-Fm2Q_VhbU2LCBgrTSo5orraeRjclyt4mnwz-mBvxSUv0QeFnt8U&_nc_zt=23&_nc_ht=scontent.fird6-1.fna&_nc_gid=YNyF1p_j0QTLKsAs7hQa1w&oh=00_AfN6LtvCpmj7hfVGE1njks2EB00SZiP_Wh2B_xNF2O0s0g&oe=684C700A)
+![](file:///Users/softvence/Downloads/ChatGPT%20Image%20Dec%2027,%202025,%2001_22_18%20AM.png
 
 I am a Mobile App Developer (Flutter & Dart) from Bangladesh. 🇧🇩
 
@@ -44,11 +44,7 @@ Version Control & Collaboration:
 . 👯 I’m looking to collaborate on Flutter & Open-Source projects
 
 
-https://github-readme-stats.vercel.app/api?username=GulamRosul&show_icons=true&theme=tokyonight
 
-https://streak-stats.demolab.com?user=GulamRosul&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=GulamRosul&layout=compact&theme=tokyonight
 
 
 
