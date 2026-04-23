@@ -1,4 +1,3 @@
-![](https://i.postimg.cc/vBQvnHfq/397f35d0-d9a3-4011-abb6-85678d360d0e.png)
 
 
 - 🔭 I’m currently working on this page. 
